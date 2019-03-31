@@ -12,8 +12,8 @@ The major use of this can be seen in following field :
 This can prevent human loss in any case 
 
 Hardware Requirements : 
-  *Raspberry pi 
-  *Arduino 
-  *Wifi modules 
-  *Camera modules 
-  *Sensors
+  * Raspberry pi 
+  * Arduino 
+  * Wifi modules 
+  * Camera modules 
+  * Sensors
